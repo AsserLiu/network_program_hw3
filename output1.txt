@@ -1,0 +1,266 @@
+Pocket length : 70
+Time : 2005-03-30 16:47:46
+Source port : 32795
+Destination port :    53
+Source IP : 192.168.170.8
+Destination IP : 192.168.170.20
+
+Pocket length : 98
+Time : 2005-03-30 16:47:46
+Source port :    53
+Destination port : 32795
+Source IP : 192.168.170.20
+Destination IP : 192.168.170.8
+
+Pocket length : 70
+Time : 2005-03-30 16:47:50
+Source port : 32795
+Destination port :    53
+Source IP : 192.168.170.8
+Destination IP : 192.168.170.20
+
+Pocket length : 298
+Time : 2005-03-30 16:47:51
+Source port :    53
+Destination port : 32795
+Source IP : 192.168.170.20
+Destination IP : 192.168.170.8
+
+Pocket length : 70
+Time : 2005-03-30 16:47:59
+Source port : 32795
+Destination port :    53
+Source IP : 192.168.170.8
+Destination IP : 192.168.170.20
+
+Pocket length : 70
+Time : 2005-03-30 16:47:59
+Source port :    53
+Destination port : 32795
+Source IP : 192.168.170.20
+Destination IP : 192.168.170.8
+
+Pocket length : 85
+Time : 2005-03-30 16:48:07
+Source port : 32795
+Destination port :    53
+Source IP : 192.168.170.8
+Destination IP : 192.168.170.20
+
+Pocket length : 129
+Time : 2005-03-30 16:48:07
+Source port :    53
+Destination port : 32795
+Source IP : 192.168.170.20
+Destination IP : 192.168.170.8
+
+Pocket length : 74
+Time : 2005-03-30 16:49:18
+Source port : 32795
+Destination port :    53
+Source IP : 192.168.170.8
+Destination IP : 192.168.170.20
+
+Pocket length : 90
+Time : 2005-03-30 16:49:18
+Source port :    53
+Destination port : 32795
+Source IP : 192.168.170.20
+Destination IP : 192.168.170.8
+
+Pocket length : 74
+Time : 2005-03-30 16:49:35
+Source port : 32795
+Destination port :    53
+Source IP : 192.168.170.8
+Destination IP : 192.168.170.20
+
+Pocket length : 102
+Time : 2005-03-30 16:49:35
+Source port :    53
+Destination port : 32795
+Source IP : 192.168.170.20
+Destination IP : 192.168.170.8
+
+Pocket length : 74
+Time : 2005-03-30 16:50:35
+Source port : 32795
+Destination port :    53
+Source IP : 192.168.170.8
+Destination IP : 192.168.170.20
+
+Pocket length : 102
+Time : 2005-03-30 16:50:35
+Source port :    53
+Destination port : 32795
+Source IP : 192.168.170.20
+Destination IP : 192.168.170.8
+
+Pocket length : 74
+Time : 2005-03-30 16:50:44
+Source port : 32795
+Destination port :    53
+Source IP : 192.168.170.8
+Destination IP : 192.168.170.20
+
+Pocket length : 94
+Time : 2005-03-30 16:50:44
+Source port :    53
+Destination port : 32795
+Source IP : 192.168.170.20
+Destination IP : 192.168.170.8
+
+Pocket length : 76
+Time : 2005-03-30 16:50:54
+Source port : 32795
+Destination port :    53
+Source IP : 192.168.170.8
+Destination IP : 192.168.170.20
+
+Pocket length : 76
+Time : 2005-03-30 16:50:54
+Source port :    53
+Destination port : 32795
+Source IP : 192.168.170.20
+Destination IP : 192.168.170.8
+
+Pocket length : 75
+Time : 2005-03-30 16:51:35
+Source port : 32795
+Destination port :    53
+Source IP : 192.168.170.8
+Destination IP : 192.168.170.20
+
+Pocket length : 75
+Time : 2005-03-30 16:51:35
+Source port :    53
+Destination port : 32795
+Source IP : 192.168.170.20
+Destination IP : 192.168.170.8
+
+Pocket length : 79
+Time : 2005-03-30 16:51:46
+Source port : 32795
+Destination port :    53
+Source IP : 192.168.170.8
+Destination IP : 192.168.170.20
+
+Pocket length : 79
+Time : 2005-03-30 16:51:47
+Source port :    53
+Destination port : 32795
+Source IP : 192.168.170.20
+Destination IP : 192.168.170.8
+
+Pocket length : 71
+Time : 2005-03-30 16:52:17
+Source port : 32795
+Destination port :    53
+Source IP : 192.168.170.8
+Destination IP : 192.168.170.20
+
+Pocket length : 115
+Time : 2005-03-30 16:52:17
+Source port :    53
+Destination port : 32795
+Source IP : 192.168.170.20
+Destination IP : 192.168.170.8
+
+Pocket length : 82
+Time : 2005-03-30 16:52:17
+Source port : 32796
+Destination port :    53
+Source IP : 192.168.170.8
+Destination IP : 192.168.170.20
+
+Pocket length : 105
+Time : 2005-03-30 16:52:17
+Source port :    53
+Destination port : 32796
+Source IP : 192.168.170.20
+Destination IP : 192.168.170.8
+
+Pocket length : 67
+Time : 2005-03-30 16:52:17
+Source port : 32797
+Destination port :    53
+Source IP : 192.168.170.8
+Destination IP : 192.168.170.20
+
+Pocket length : 129
+Time : 2005-03-30 16:52:17
+Source port :  1707
+Destination port :    53
+Source IP : 192.168.170.56
+Destination IP : 217.13.4.24
+
+Pocket length : 166
+Time : 2005-03-30 16:52:17
+Source port :    53
+Destination port : 32797
+Source IP : 192.168.170.20
+Destination IP : 192.168.170.8
+
+Pocket length : 129
+Time : 2005-03-30 16:52:17
+Source port :    53
+Destination port :  1707
+Source IP : 217.13.4.24
+Destination IP : 192.168.170.56
+
+Pocket length : 98
+Time : 2005-03-30 16:52:17
+Source port :  1708
+Destination port :    53
+Source IP : 192.168.170.56
+Destination IP : 217.13.4.24
+
+Pocket length : 98
+Time : 2005-03-30 16:52:17
+Source port :    53
+Destination port :  1708
+Source IP : 217.13.4.24
+Destination IP : 192.168.170.56
+
+Pocket length : 140
+Time : 2005-03-30 16:52:17
+Source port :  1709
+Destination port :    53
+Source IP : 192.168.170.56
+Destination IP : 217.13.4.24
+
+Pocket length : 140
+Time : 2005-03-30 16:52:17
+Source port :    53
+Destination port :  1709
+Source IP : 217.13.4.24
+Destination IP : 192.168.170.56
+
+Pocket length : 83
+Time : 2005-03-30 16:52:17
+Source port :  1710
+Destination port :    53
+Source IP : 192.168.170.56
+Destination IP : 217.13.4.24
+
+Pocket length : 83
+Time : 2005-03-30 16:52:17
+Source port :    53
+Destination port :  1710
+Source IP : 217.13.4.24
+Destination IP : 192.168.170.56
+
+Pocket length : 83
+Time : 2005-03-30 16:52:25
+Source port :  1711
+Destination port :    53
+Source IP : 192.168.170.56
+Destination IP : 217.13.4.24
+
+Pocket length : 83
+Time : 2005-03-30 16:52:25
+Source port :    53
+Destination port :  1711
+Source IP : 217.13.4.24
+Destination IP : 192.168.170.56
+
